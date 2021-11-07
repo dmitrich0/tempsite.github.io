@@ -1,2 +1,2 @@
-# tempsite.github.io
+# Good developer
 New site
